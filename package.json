@@ -1,0 +1,21 @@
+{
+  "name": "balanced_binary_search_tree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Builds a balanced binary search tree",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montein56/Balanced-Binary-Search-Tree.git"
+  },
+  "keywords": [],
+  "author": "Norman Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montein56/Balanced-Binary-Search-Tree/issues"
+  },
+  "homepage": "https://github.com/montein56/Balanced-Binary-Search-Tree#readme"
+}
